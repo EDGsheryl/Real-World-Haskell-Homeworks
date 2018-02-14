@@ -1,0 +1,3 @@
+## What it is ?
+
+It's my answer to *Real World Haskell* , maybe it's uncorrect (maybe uncorrect on most time) ......
